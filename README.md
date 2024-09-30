@@ -1,0 +1,2 @@
+# Gradient-Generator
+Design: CodeWithSMR
